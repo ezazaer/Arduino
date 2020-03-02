@@ -19,4 +19,4 @@ Libraries:
 * LedControl.h      (available in the Arduino library manager)
 
 Video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/t9Z64nEObJg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+https://www.youtube.com/watch?v=t9Z64nEObJg
